@@ -1,7 +1,6 @@
 #ifndef UTILITY_H
 #define UTILITY_H
 
-// TODO: handle error
 
 #define mem_alloc(ptr, type, size, errno) \
         do { \

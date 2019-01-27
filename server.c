@@ -1,6 +1,6 @@
 /**
  *@brief DHCP server
- *@author AYAKA OHWADA
+ *@author ayakatakuriko
  *@date 2018/12/14
  * */
 

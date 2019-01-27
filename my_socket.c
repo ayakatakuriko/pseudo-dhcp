@@ -1,7 +1,7 @@
 /**
  * my_socket.c
  * @brief ソケットの割り当てなどを行う関数群
- * @author AYAKA OHWADA
+ * @author ayakatakuriko
  * @deta 208/12/21
  */
 #include <stdio.h>
